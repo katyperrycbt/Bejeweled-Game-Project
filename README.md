@@ -1,2 +1,2 @@
 # Bejeweled-Game-Project
-Team Katy HCMIU
+Team OOP HCMIU
